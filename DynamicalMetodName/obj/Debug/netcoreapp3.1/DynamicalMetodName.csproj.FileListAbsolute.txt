@@ -1,0 +1,11 @@
+D:\A_Projects\C#\DynamicalMetodName\DynamicalMetodName\bin\Debug\netcoreapp3.1\DynamicalMetodName.exe
+D:\A_Projects\C#\DynamicalMetodName\DynamicalMetodName\bin\Debug\netcoreapp3.1\DynamicalMetodName.deps.json
+D:\A_Projects\C#\DynamicalMetodName\DynamicalMetodName\bin\Debug\netcoreapp3.1\DynamicalMetodName.runtimeconfig.json
+D:\A_Projects\C#\DynamicalMetodName\DynamicalMetodName\bin\Debug\netcoreapp3.1\DynamicalMetodName.runtimeconfig.dev.json
+D:\A_Projects\C#\DynamicalMetodName\DynamicalMetodName\bin\Debug\netcoreapp3.1\DynamicalMetodName.dll
+D:\A_Projects\C#\DynamicalMetodName\DynamicalMetodName\bin\Debug\netcoreapp3.1\DynamicalMetodName.pdb
+D:\A_Projects\C#\DynamicalMetodName\DynamicalMetodName\obj\Debug\netcoreapp3.1\DynamicalMetodName.csprojAssemblyReference.cache
+D:\A_Projects\C#\DynamicalMetodName\DynamicalMetodName\obj\Debug\netcoreapp3.1\DynamicalMetodName.AssemblyInfoInputs.cache
+D:\A_Projects\C#\DynamicalMetodName\DynamicalMetodName\obj\Debug\netcoreapp3.1\DynamicalMetodName.AssemblyInfo.cs
+D:\A_Projects\C#\DynamicalMetodName\DynamicalMetodName\obj\Debug\netcoreapp3.1\DynamicalMetodName.dll
+D:\A_Projects\C#\DynamicalMetodName\DynamicalMetodName\obj\Debug\netcoreapp3.1\DynamicalMetodName.pdb
